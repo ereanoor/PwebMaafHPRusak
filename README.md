@@ -54,4 +54,8 @@ rl.close();
 ```
 Setelah validasi lolos, program memanggil fungsi tentukanZodiak dan mencetak hasilnya ke terminal.
 
+<img width="1067" height="674" alt="Screenshot 2026-02-22 202202" src="https://github.com/user-attachments/assets/6f34d005-35d5-450d-b6d3-cda7f7e00c33" />
+
+
+
 ```rl.close()```: Sangat penting untuk mematikan interface readline agar program berhenti dengan benar dan tidak terus menunggu input di terminal.
